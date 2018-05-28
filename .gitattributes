@@ -2,3 +2,4 @@
 /.project -text
 /README.md -text
 new_folder/new_file -text
+sample/dummy_file.xml -text
