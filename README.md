@@ -5,4 +5,3 @@ This is a test of subgit synchronization.
 GitHub originated line.
 
 gratuitous edit...
-and another
